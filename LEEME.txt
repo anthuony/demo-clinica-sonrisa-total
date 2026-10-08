@@ -1,0 +1,19 @@
+CLÍNICA SONRISA TOTAL — WEB COMPLETA
+
+CÓMO ABRIRLA
+1. Extrae el ZIP completo.
+2. Abre index.html en tu navegador.
+3. Desplázate para ver las animaciones.
+
+CÓMO SUBIRLA A TU HOSTING
+Sube index.html, styles.css, app.js y la carpeta assets al directorio público de tu sitio (por ejemplo, public_html). Conserva sus nombres y ubicación.
+No necesita instalación, compilación ni base de datos.
+
+INCLUYE
+Logo original, imágenes, fuente, estilos, animaciones, navegación móvil, opciones de cuidado y enlaces de contacto por Instagram.
+
+DATOS PENDIENTES
+Las imágenes son conceptuales. Los textos y las categorías de atención son una propuesta pendiente de validar con la clínica. El contacto dirige al Instagram proporcionado.
+
+NOTA
+La página conserva noindex para esta etapa de demostración. Cuando el contenido definitivo esté aprobado y la web se publique oficialmente, retira la etiqueta de robots noindex del encabezado de index.html.
